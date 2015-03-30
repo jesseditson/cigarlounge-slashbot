@@ -16,7 +16,7 @@
     "bot"
   ],
   "dependencies": {
-    "slashbot": "^0.1.0",
+    "slashbot": "^0.1.1",
     "slashbot-animate": "^1.0.0",
     "slashbot-clever": "^1.0.0"
   },
